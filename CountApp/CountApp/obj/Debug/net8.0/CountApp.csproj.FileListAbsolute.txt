@@ -1,0 +1,14 @@
+C:\Users\yojak\source\repos\CountApp\CountApp\bin\Debug\net8.0\CountApp.exe
+C:\Users\yojak\source\repos\CountApp\CountApp\bin\Debug\net8.0\CountApp.deps.json
+C:\Users\yojak\source\repos\CountApp\CountApp\bin\Debug\net8.0\CountApp.runtimeconfig.json
+C:\Users\yojak\source\repos\CountApp\CountApp\bin\Debug\net8.0\CountApp.dll
+C:\Users\yojak\source\repos\CountApp\CountApp\bin\Debug\net8.0\CountApp.pdb
+C:\Users\yojak\source\repos\CountApp\CountApp\obj\Debug\net8.0\CountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yojak\source\repos\CountApp\CountApp\obj\Debug\net8.0\CountApp.AssemblyInfoInputs.cache
+C:\Users\yojak\source\repos\CountApp\CountApp\obj\Debug\net8.0\CountApp.AssemblyInfo.cs
+C:\Users\yojak\source\repos\CountApp\CountApp\obj\Debug\net8.0\CountApp.csproj.CoreCompileInputs.cache
+C:\Users\yojak\source\repos\CountApp\CountApp\obj\Debug\net8.0\CountApp.dll
+C:\Users\yojak\source\repos\CountApp\CountApp\obj\Debug\net8.0\refint\CountApp.dll
+C:\Users\yojak\source\repos\CountApp\CountApp\obj\Debug\net8.0\CountApp.pdb
+C:\Users\yojak\source\repos\CountApp\CountApp\obj\Debug\net8.0\CountApp.genruntimeconfig.cache
+C:\Users\yojak\source\repos\CountApp\CountApp\obj\Debug\net8.0\ref\CountApp.dll
